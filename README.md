@@ -1,7 +1,7 @@
 # cPanel Discovery
 
 **Version:** 1.0.0  
-**Author:** Oshan Ravindu (Currently Vip Hackers channel not available in Telegram)
+**Author:** Oshan Ravindu (Currently Vip Hackers channel not available)
 
 ---
 
