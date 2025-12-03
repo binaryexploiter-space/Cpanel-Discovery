@@ -1,7 +1,7 @@
 # cPanel Discovery
 
 **Version:** 1.0.0  
-**Author:** Oshan Ravinddu
+**Author:** Oshan Ravindu
 
 ---
 
